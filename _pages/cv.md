@@ -11,35 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in School of Computing, Korea Advanced Institute of Science and Technology (KAIST), 2022
+* M.S. in School of Computing, Korea Advanced Institute of Science and Technology (KAIST), 2017
+* B.S. in Computer Science & Engineering, Sungkyunkwan University, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Applied Scientist at Amazon (Manhattan, NY)
+  * Jul 2023 - Current
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Applied Scientist Intern at Amazon
+  * Mar 2022 - Jun 2022
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Scientist Intern at Adobe Research
+  * Sep 2021 - Dec 2021
 
 Publications
 ======
