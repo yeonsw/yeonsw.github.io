@@ -29,7 +29,8 @@ author:
   location         : "Manhattan, NY"
   employer         : "Amazon"
   uri              : # URL
-  email            : "yeon.seonwoo95@gmail.com" 
+  email            : "yeon.seonwoo95@gmail.com"
+  cv               : "https://yeonsw.github.io/files/CV.pdf"
 
   # Academic websites
   academia         : # URL
