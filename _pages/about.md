@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I’m an applied scientist at Amazon, building large language models to enhance the shopping experience. Before joining Amazon, I received my Ph.D. in Computer Science from Korea Advanced Institute of Science and Technology (KAIST) in 2022, advised by Alice Oh. During my Ph.D. I was an Applied Scientist Intern at Amazon, and prior to that, I worked as a Research Scientist Intern at Adobe.
+I’m an applied scientist at Amazon, building large language models to enhance the shopping experience. Before joining Amazon, I received my Ph.D. in Computer Science from Korea Advanced Institute of Science and Technology (KAIST) in 2022, advised by Alice Oh. During my Ph.D., I was an Applied Scientist Intern at Amazon and as a Research Scientist Intern at Adobe.
