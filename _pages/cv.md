@@ -17,14 +17,11 @@ Education
 
 Work experience
 ======
-* Applied Scientist at Amazon (Manhattan, NY)
-  * Jul 2023 - Current
+* Applied Scientist at Amazon (Manhattan, NY), Jul 2023 - Current
 
-* Applied Scientist Intern at Amazon
-  * Mar 2022 - Jun 2022
+* Applied Scientist Intern at Amazon, Mar 2022 - Jun 2022
 
-* Research Scientist Intern at Adobe Research
-  * Sep 2021 - Dec 2021
+* Research Scientist Intern at Adobe Research, Sep 2021 - Dec 2021
 
 Publications
 ======
