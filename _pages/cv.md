@@ -45,9 +45,9 @@ Talks
 
 Teaching Experience
 ======
-Machine Learning for Social Science, TA, Mar 2019 - Aug 2019
-Artificial Intelligence & Machine Learning, TA, Mar 2017 - Aug 2017
-Data Structure, TA, Sep 2016 - Feb 2017 (TA Excellence Award), Sep 2017 - Feb 2018, Mar 2018 - Aug 2018, Sep 2018 - Feb 2019
+* Machine Learning for Social Science, TA, Mar 2019 - Aug 2019
+* Artificial Intelligence & Machine Learning, TA, Mar 2017 - Aug 2017
+* Data Structure, TA, Sep 2016 - Feb 2017 (TA Excellence Award), Sep 2017 - Feb 2018, Mar 2018 - Aug 2018, Sep 2018 - Feb 2019
 
 Scholarship
 =====
