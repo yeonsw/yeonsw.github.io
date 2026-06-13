@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m an Applied Scientist at Amazon working on large language models, retrieval, and agentic systems for real-world applications. My research focuses on how intelligent systems acquire, preserve, compose, and seek knowledge. I am interested in understanding how knowledge can be learned efficiently, retained without forgetting, connected across multiple sources, and obtained when it is not immediately available. More broadly, I study how these capabilities support reasoning, planning, and decision making in intelligent systems.
+I’m an Applied Scientist at Amazon working on large language models, retrieval, and agentic systems for real-world applications. My research focuses on knowledge in large language models and agents: how it is acquired from data and experience, preserved over time, transformed through reasoning and planning, and obtained through retrieval and interaction with external environments. I study continual learning, retrieval, reasoning, and agentic systems, investigating how these mechanisms can be combined to build capable and reliable AI systems for real-world applications.
 
 My work spans both foundation models and production AI systems. On the Prime Video Search team, I develop language-model-based systems for real-time query understanding and agentic search under strict latency and scalability constraints. This work explores how models can combine internal knowledge with external information sources to better understand user intent and solve complex information-seeking tasks.
 
